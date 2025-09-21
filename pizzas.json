@@ -1,0 +1,22 @@
+{
+  "pizzas": [
+    {
+      "id": 1,
+      "name": "Pepperoni",
+      "pizzeria": "Pizza Hut",
+      "available": true
+    },
+    {
+      "id": 2,
+      "name": "Margherita",
+      "pizzeria": "Domino's Pizza",
+      "available": true
+    },
+    {
+      "id": 3,
+      "name": "Vegetarian",
+      "pizzeria": "Papa John's",
+      "available": false
+    }
+  ]
+}
