@@ -1,0 +1,22 @@
+[
+  {
+    "description": "Avocado Toast",
+    "amount": 5.99,
+    "id": 1
+  },
+  {
+    "description": "Egg Toast",
+    "amount": 5.99,
+    "id": 2
+  },
+ {
+    "description": "Banana Toast",
+    "amount": 5.99,
+    "id": 3
+  },
+  {
+    "description": "Yoghurt Toast",
+    "amount": 5.99,
+    "id": 4
+  }
+]
