@@ -35,7 +35,19 @@
     "excercise": [
       {
         "id": "1",
-        "title": "Yoga for Anxiety & Stress  Relief",
+        "title": "Quick Arms & Upper Body Pilates",
+        "duration": "5 min",
+        "exercises": 5
+      },
+       {
+        "id": "2",
+        "title": "Model Legs & Bubble Booty",
+        "duration": "5 min",
+        "exercises": 5
+      },
+       {
+        "id": "3",
+        "title": "Seated Abs Sculpt: Just 3 Moves",
         "duration": "5 min",
         "exercises": 5
       }
