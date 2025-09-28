@@ -1,30 +1,44 @@
 {
-  "count": 5,
-  "excercise": [
+  "banner": {
+    "id": "1",
+    "title": "Day 1",
+    "time": "7 min",
+    "excercise_count": "7 Excercise",
+    "img_url": "https://media.rawg.io/media/games/20a/20aa03a10cda45239fe22d035c0ebe64.jpg"
+  },
+  "challenges": [
     {
-      "id": 1,
-      "name": "Push Ups",
-      "imgUrl": "https://via.placeholder.com/150/92c952"
+      "id": "1",
+      "title": "WALL PILATES",
+      "days": "14",
+      "users_joined": "100k",
+      "img_url": "https://media.rawg.io/media/games/20a/20aa03a10cda45239fe22d035c0ebe64.jpg"
     },
     {
-      "id": 2,
-      "name": "Plank",
-      "imgUrl": "https://via.placeholder.com/150/771796"
+      "id": "2",
+      "title": "FACE YOGA",
+      "days": "14",
+      "users_joined": "100k",
+      "img_url": "https://media.rawg.io/media/games/20a/20aa03a10cda45239fe22d035c0ebe64.jpg"
     },
     {
-      "id": 3,
-      "name": "Squats",
-      "imgUrl": "https://via.placeholder.com/150/24f355"
-    },
-    {
-      "id": 4,
-      "name": "Lunges",
-      "imgUrl": "https://via.placeholder.com/150/d32776"
-    },
-    {
-      "id": 5,
-      "name": "Mountain Climbers",
-      "imgUrl": "https://via.placeholder.com/150/f66b97"
+      "id": "3",
+      "title": "BED PAJAMA",
+      "days": "14",
+      "users_joined": "100k",
+      "img_url": "https://media.rawg.io/media/games/20a/20aa03a10cda45239fe22d035c0ebe64.jpg"
     }
-  ]
+  ],
+  "specialized": {
+    "title": "Just for you",
+    "description": "Tailored to your goals & preferences!",
+    "excercise": [
+      {
+        "id": "1",
+        "title": "Yoga for Anxiety & Stress  Relief",
+        "duration": "5 min",
+        "exercises": 5
+      }
+    ]
+  }
 }
