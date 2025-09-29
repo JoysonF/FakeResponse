@@ -29,6 +29,7 @@
     {
       "phase": "Phase 2",
       "title": "Easy Sequences",
+       "progress": "0%",
       "days": [
         {
           "id": "day_4_excercise",
