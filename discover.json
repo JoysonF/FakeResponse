@@ -1,0 +1,52 @@
+{
+  "program": "Discover",
+  "section": [
+    {
+      "title": "Weight Loss Journey",
+      "sub_title": "View all",
+      "excercise": [
+        {
+          "id": "day_1_excercise",
+          "title": "1",
+          "duration": "6 min",
+          "exercises": 7,
+          "level": "Beginner"
+        },
+        {
+          "id": "day_2_excercise",
+          "title": "2",
+          "duration": "10 min",
+          "exercises": 11,
+          "level": "Beginner"
+        },
+        {
+          "id": "day_3_excercise",
+          "title": 3,
+          "duration": "8 min",
+          "exercises": 9,
+          "level": "Beginner"
+        }
+      ]
+    },
+    {
+      "title": "Weight Loss Journey",
+      "sub_title": "View all",
+      "excercise": [
+        {
+          "id": "day_4_excercise",
+          "title": 4,
+          "duration": "5 min",
+          "exercises": 5,
+          "level": "Beginner"
+        },
+        {
+          "id": "day_5_excercise",
+          "title": 5,
+          "duration": "Rest Day",
+          "exercises": 0,
+          "level": "Beginner"
+        }
+      ]
+    }
+  ]
+}
