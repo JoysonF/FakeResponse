@@ -73,6 +73,73 @@
           ]
         }
       ]
+    },
+    
+    {
+      "name": "Side Leg Circles Right",
+      "duration": "00:50",
+      "img_url": "https://media.rawg.io/media/games/20a/20aa03a10cda45239fe22d035c0ebe64.jpg",
+      "video": "",
+      "description": [
+        {
+          "title": "How To Do",
+          "item": [
+            "Lie on your right side with your head resting on your right hand",
+            "Then lift your left leg and rotate your foot in circles"
+          ]
+        },
+        {
+          "title": "Common Mistakes",
+          "item": [
+            "Raising the leg too high",
+            "Hunching the back"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Side Leg Circles Right",
+      "duration": "00:50",
+      "img_url": "https://media.rawg.io/media/games/20a/20aa03a10cda45239fe22d035c0ebe64.jpg",
+      "video": "",
+      "description": [
+        {
+          "title": "How To Do",
+          "item": [
+            "Lie on your right side with your head resting on your right hand",
+            "Then lift your left leg and rotate your foot in circles"
+          ]
+        },
+        {
+          "title": "Common Mistakes",
+          "item": [
+            "Raising the leg too high",
+            "Hunching the back"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Side Leg Circles Right",
+      "duration": "00:50",
+      "img_url": "https://media.rawg.io/media/games/20a/20aa03a10cda45239fe22d035c0ebe64.jpg",
+      "video": "",
+      "description": [
+        {
+          "title": "How To Do",
+          "item": [
+            "Lie on your right side with your head resting on your right hand",
+            "Then lift your left leg and rotate your foot in circles"
+          ]
+        },
+        {
+          "title": "Common Mistakes",
+          "item": [
+            "Raising the leg too high",
+            "Hunching the back"
+          ]
+        }
+      ]
     }
   ],
   "actions": {
