@@ -7,21 +7,21 @@
       "excercise": [
         {
           "id": "day_1_excercise",
-          "title": "1",
+          "title": "Full Body Pilates & Fat Burn",
           "duration": "6 min",
           "exercises": 7,
           "level": "Beginner"
         },
         {
           "id": "day_2_excercise",
-          "title": "2",
+          "title": "Fastest Fat Melter",
           "duration": "10 min",
           "exercises": 11,
           "level": "Beginner"
         },
         {
           "id": "day_3_excercise",
-          "title": 3,
+          "title": "Best Calories Burn Pilates",
           "duration": "8 min",
           "exercises": 9,
           "level": "Beginner"
@@ -34,14 +34,14 @@
       "excercise": [
         {
           "id": "day_4_excercise",
-          "title": 4,
+          "title": "Gentle Pilates for Weight Loss",
           "duration": "5 min",
           "exercises": 5,
           "level": "Beginner"
         },
         {
           "id": "day_5_excercise",
-          "title": 5,
+          "title": "Best Calories Burn Pilates",
           "duration": "Rest Day",
           "exercises": 0,
           "level": "Beginner"
