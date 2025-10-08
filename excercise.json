@@ -1,103 +1,98 @@
 {
-  "banner": {
-    "id": "1",
-    "title": "Day 1",
-    "time": "7 min",
-    "excercise_count": "7 Excercise",
-    "img_url": "https://images.unsplash.com/photo-1575052814086-f385e2e2ad1b?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-  },
-  "challenges": [
-    {
-      "id": 1,
-      "title": "WALL PILATES",
-      "days": 14,
-      "users_joined": "100k",
-      "img_url": "https://media.rawg.io/media/games/20a/20aa03a10cda45239fe22d035c0ebe64.jpg"
-    },
-    {
-      "id": 2,
-      "title": "FACE YOGA",
-      "days": 14,
-      "users_joined": "100k",
-      "img_url": "https://media.rawg.io/media/games/20a/20aa03a10cda45239fe22d035c0ebe64.jpg"
-    },
-    {
-      "id": 3,
-      "title": "BED PAJAMA",
-      "days": 14,
-      "users_joined": "100k",
-      "img_url": "https://media.rawg.io/media/games/20a/20aa03a10cda45239fe22d035c0ebe64.jpg"
-    }
-  ],
-  "specialized": {
-    "title": "Just for you",
-    "description": "Tailored to your goals & preferences!",
-    "excercise": [
+   "banner":{
+      "id":"1",
+      "title":"Day 1",
+      "time":"7 min",
+      "excercise_count":"7 Excercise",
+      "img_url":"https://images.unsplash.com/photo-1575052814086-f385e2e2ad1b?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+   },
+   "challenges":[
       {
-        "id": "1",
-        "title": "Quick Arms & Upper Body Pilates",
-        "duration": "5 min",
-        "exercises": 5
+         "id":1,
+         "title":"WALL PILATES",
+         "days":14,
+         "users_joined":"100k",
+         "img_url":"https://media.rawg.io/media/games/20a/20aa03a10cda45239fe22d035c0ebe64.jpg"
       },
-       {
-        "id": "2",
-        "title": "Model Legs & Bubble Booty",
-        "duration": "5 min",
-        "exercises": 5
+      {
+         "id":2,
+         "title":"FACE YOGA",
+         "days":14,
+         "users_joined":"100k",
+         "img_url":"https://media.rawg.io/media/games/20a/20aa03a10cda45239fe22d035c0ebe64.jpg"
       },
-       {
-        "id": "3",
-        "title": "Seated Abs Sculpt: Just 3 Moves",
-        "duration": "5 min",
-        "exercises": 5
+      {
+         "id":3,
+         "title":"BED PAJAMA",
+         "days":14,
+         "users_joined":"100k",
+         "img_url":"https://media.rawg.io/media/games/20a/20aa03a10cda45239fe22d035c0ebe64.jpg"
       }
-    ]
-  },
-
-"body_focus": [
-
-{
-     "id": "1",
-    "title": "Butt & Leg",
-    "img_url": "https://plus.unsplash.com/premium_photo-1683133543401-edc31ed41140?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-},
-  {
-     "id": "2",
-    "title": "Abs",
-    "img_url": "https://plus.unsplash.com/premium_photo-1683133543401-edc31ed41140?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-},
-  {
-     "id": "3",
-    "title": "Full body",
-    "img_url": "https://plus.unsplash.com/premium_photo-1683133543401-edc31ed41140?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-},
-  {
-     "id": "4",
-    "title": "Arm",
-    "img_url": "https://plus.unsplash.com/premium_photo-1683133543401-edc31ed41140?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-},
-  {
-     "id": "5",
-    "title": "Abs",
-    "img_url": "https://plus.unsplash.com/premium_photo-1683133543401-edc31ed41140?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-},
-  {
-     "id": "6",
-    "title": "Abs",
-    "img_url": "https://plus.unsplash.com/premium_photo-1683133543401-edc31ed41140?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-},
-  {
-     "id": "7",
-    "title": "Abs",
-    "img_url": "https://plus.unsplash.com/premium_photo-1683133543401-edc31ed41140?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-},
-  {
-     "id": "8",
-    "title": "Abs",
-    "img_url": "https://plus.unsplash.com/premium_photo-1683133543401-edc31ed41140?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-}
-   
-]
-
-  
+   ],
+   "specialized":{
+      "title":"Just for you",
+      "description":"Tailored to your goals & preferences!",
+      "excercise":[
+         {
+            "id":"1",
+            "title":"Quick Arms & Upper Body Pilates",
+            "duration":"5 min",
+            "exercises":5
+         },
+         {
+            "id":"2",
+            "title":"Model Legs & Bubble Booty",
+            "duration":"5 min",
+            "exercises":5
+         },
+         {
+            "id":"3",
+            "title":"Seated Abs Sculpt: Just 3 Moves",
+            "duration":"5 min",
+            "exercises":5
+         }
+      ]
+   },
+   "body_focus":[
+      {
+         "id":"1",
+         "title":"Butt & Leg",
+         "img_url":"https://plus.unsplash.com/premium_photo-1683133543401-edc31ed41140?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      },
+      {
+         "id":"2",
+         "title":"Abs",
+         "img_url":"https://plus.unsplash.com/premium_photo-1683133543401-edc31ed41140?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      },
+      {
+         "id":"3",
+         "title":"Full body",
+         "img_url":"https://plus.unsplash.com/premium_photo-1683133543401-edc31ed41140?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      },
+      {
+         "id":"4",
+         "title":"Arm",
+         "img_url":"https://plus.unsplash.com/premium_photo-1683133543401-edc31ed41140?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      },
+      {
+         "id":"5",
+         "title":"Abs",
+         "img_url":"https://plus.unsplash.com/premium_photo-1683133543401-edc31ed41140?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      },
+      {
+         "id":"6",
+         "title":"Abs",
+         "img_url":"https://plus.unsplash.com/premium_photo-1683133543401-edc31ed41140?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      },
+      {
+         "id":"7",
+         "title":"Abs",
+         "img_url":"https://plus.unsplash.com/premium_photo-1683133543401-edc31ed41140?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      },
+      {
+         "id":"8",
+         "title":"Abs",
+         "img_url":"https://plus.unsplash.com/premium_photo-1683133543401-edc31ed41140?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      }
+   ]
 }
