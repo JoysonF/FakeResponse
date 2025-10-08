@@ -37,19 +37,22 @@
             "id":"1",
             "title":"Quick Arms & Upper Body Pilates",
             "duration":"5 min",
-            "exercises":5
+            "total_excercise_count":5,
+             "img_url":"https://media.rawg.io/media/games/20a/20aa03a10cda45239fe22d035c0ebe64.jpg"
          },
          {
             "id":"2",
             "title":"Model Legs & Bubble Booty",
             "duration":"5 min",
-            "exercises":5
+            "total_excercise_count":5,
+             "img_url":"https://media.rawg.io/media/games/20a/20aa03a10cda45239fe22d035c0ebe64.jpg"
          },
          {
             "id":"3",
             "title":"Seated Abs Sculpt: Just 3 Moves",
             "duration":"5 min",
-            "exercises":5
+            "total_excercise_count":5,
+             "img_url":"https://media.rawg.io/media/games/20a/20aa03a10cda45239fe22d035c0ebe64.jpg"
          }
       ]
    },
